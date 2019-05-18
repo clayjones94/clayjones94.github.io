@@ -82,9 +82,9 @@ header .header-content {
 header .header-content .header-content-inner h1 {
     margin-top: 0;
     margin-bottom: 20px;
-    font-size: 73px;
+    font-size: 60px;
     font-family: 'Bodoni 72';
-
+    font-weight: 700;
 }
 
 header .header-content {
